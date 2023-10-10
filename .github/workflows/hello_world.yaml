@@ -22,6 +22,6 @@ jobs:
     runs-on: ubuntu-lates
     steps:
       - name: goodbye world
-        run: echo "Goodbye world:
+        run: echo "Goodbye world"
         shell: bash
 
