@@ -1,0 +1,1 @@
+[![Continuous Integration Workflow](https://github.com/Tackle-CI-CD/actions-hero/actions/workflows/ci.yaml/badge.svg)](https://github.com/Tackle-CI-CD/actions-hero/actions/workflows/ci.yaml)
